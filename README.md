@@ -23,7 +23,7 @@ Alternative with Python 3: run `python3 -m http.server 3000 --directory public` 
 
 ## Publish on GitHub Pages
 
-The repository includes a GitHub Actions workflow that deploys the static website in `public/` whenever `main` is pushed. In the repository settings, set **Pages → Build and deployment → Source** to **GitHub Actions**. Then push the project to `main` and check the **Actions** tab for the deployment to finish. Use the public URL once the deployment succeeds.
+The repository is configured to publish from the `main` branch root through GitHub Pages. The root `index.html` forwards visitors to the app in `public/`. If Pages is not yet enabled, open **Settings → Pages**, choose **Deploy from a branch**, select **main** and **/(root)**, then save.
 
 The public concept URL will be:
 
