@@ -1,0 +1,14 @@
+{
+  "name": "motor-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Swanand Kulkarni\u2019s local automotive HMI experience",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
