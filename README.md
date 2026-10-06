@@ -44,3 +44,7 @@ The project brings together my interests in automotive HMI, interaction design, 
 ## Live Prototype
 
 https://swanandkul03.github.io/Motor-Studio/public/
+
+## Explore a Dashboard Design Project
+
+https://lnkd.in/eqUXGzpF
